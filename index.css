@@ -13,3 +13,7 @@ main {
 #reset {
   margin: 20px;
 }
+
+#less-than-one, #greater-than-ninetyNine {
+  color: red;
+}
